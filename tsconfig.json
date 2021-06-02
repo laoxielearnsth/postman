@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "es2020",
+    "target": "es6",
+    "sourceMap": false
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "index.ts",
+    "son.ts"
+  ]
+}
